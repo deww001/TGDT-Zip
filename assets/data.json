@@ -1,0 +1,68 @@
+{
+
+ "traveldetail": [
+    {
+        "id":1,
+        "name":"วัดพระศรีรัตนมหาธาตุ ",
+        "describeTahi":" สถานที่นี้คือ วัดพระศรีรัตนมหาธาตุ ภายในเป็นที่ประดิษฐานพระพุทธชินราชพระคู่บ้านคู่เมืองของชาวพิษณุโลก ภายในวิหารมีประติมากรรมที่สวยงาม มีสักการะพระพุทธเจ้าเข้านิพพานเป็นวิหารจำลองสังเวชนียสถานของพระพุทธเจ้า ภายในประดิษฐานหีบทองบรรจุพระบรมศพของพระพุทธเจ้า ด้วยลวดลายลงรักปิดทองสวยงาม มีให้ชมความเก่าแก่ของพระอัฏฐารส เป็นโบราณสถาน และโบราณวัตถุที่เป็นศิลปะสมัยสุโขทัย",
+        "describeEng":"This place is Wat Phra Si Rattana Mahathat Inside is the enshrined Phra Buddha Chinnarat, a sacred image of the people of Phitsanulok. Inside the temple there are beautiful sculptures. There is a place to worship the Lord Buddha entering Nirvana. It is a temple that is a replica of the Buddha's place of worship. Inside is a golden casket containing the Buddha's remains. With a beautiful lacquered and gilded pattern. There is an opportunity to admire the antiquity of Phra Attharot, an ancient site and antique art object from the Sukhothai period.",
+        "describechine":"這個地方是 帕西拉丹瑪哈泰寺 裡面供奉著 Phra Buddha Chinnarat 這是彭世洛人民的神聖形象。 寺廟內有精美的雕塑。 有一個供奉佛陀入涅槃的地方，是一座寺廟，是仿照佛祖的禮拜場所而建的。 裡面有一個金棺，裡面裝有佛陀的骨灰。 具有美麗的漆面和鍍金圖案。 您將有機會欣賞 Phra Attharot 的古蹟，這是素可泰時期的古老遺址和古董藝術品。"
+    },
+    {
+        "id":2,
+        "name":"วัดนางพญา",
+        "describeTahi":" สถานที่นี้คือ วัดนางพญา  พระเครื่องที่มีชื่อเสียงมากที่สุดในประเทศไทย ภายในวัดมีรูปปั้นสิงห์ที่ตั้งอยู่ทางขึ้นและลงบันได เมื่อเข้าสู่ตัวอุโบสถ จะเห็นความสวยงามของสมเด็จนางพญาเรือนแก้วภายในอุโบสถตกแต่งด้วยลายกนก อุโบสถมีพลับพลาหทัยนเรศวร์ 5 พระองค์แยกออกมาจกตัววัดนางงพญาโดยภายในประดิษฐ์ฐานพระบรมรูป 5 พระองค์ ในวัดนางพญามีบริการให้เช่าพระเครื่อง มีให้เข้าสักการะสมเด็จนางพญาเรือนแก้ว และพลับพลาหทัยนเรศวร์ 5 พระองค์",
+        "describeEng":"This place is Wat Nang Phaya, the most famous amulet in Thailand. Inside the temple, there are lion statues that stand up and down the stairs. When entering the chapel You will see the beauty of Somdet Nang Phaya Ruean Kaew inside the chapel decorated with Kanok patterns. The ordination hall has 5 King Naresuan Pavilion separated from Nang Phaya Temple. Inside, there is a base for 5 Buddha statues. In Nang Phaya Temple, there is a service for renting amulets. There is a place to pay homage to Somdet Nang Phaya Ruean Kaew. and 5 Hathai Naresuan Pavilion",
+        "describechine":"這個地方就是Wat Nang Phaya 泰國最著名的護身符。 殿內，階梯上有獅子雕像矗立。 進入禮拜堂時 在裝飾有卡諾克圖案的小教堂內，您將看到 Somdej Nang Phaya Ruean Kaew 的美麗。 戒堂內有5座納黎宣王閣，與Nang Phaya Temple分開，裡面有一個供奉5尊佛像的底座，Nang Phaya Temple內有租護身符的服務。 有一個地方可以向 Somdet Nang Phaya Ruean Kaew 致敬。 和 5 哈泰納黎宣館"
+    },
+    {
+        "id":3,
+        "name":"วัดราชบูรณะ",
+        "describeThai":" สถานที่นี้คือ วัดราชบูรณะ  มีพระวิหารหลวงพ่อทองดำ เป็นพระพุทธรูปในสมัยสุโขทัย ในวิหารหลวงพ่อทองดำยังจัดเป็นพิพะภัณฑ์ขนาดย่อม ภายในมีการไหว้สาการะพระธาตุตามปีเกิด และถวายไผ่เงินไผ่ทองใต้ต้นศรีมหาโพธิ์ ",
+        "describeEng":"This place is Wat Ratchaburana, which has a temple of Luang Pho Thongdam. It is a Buddha image from the Sukhothai period. In the Luang Pho Thongdam temple, it is also organized as a small museum. Inside, people worship the relics according to their birth year. and offered silver bamboo and gold bamboo under the Sri Maha Bodhi tree",
+        "describechine":"這個地方就是Ratchaburana寺，裡面有一座Luang Pho Thongdam寺廟。 這是素可泰時期的佛像。 在Luang Pho Thongdam寺廟中，它也被組織為一個小型博物館。 在裡面，人們按照出生年份來供奉舍利。 並在摩訶菩提樹下供養銀竹和金竹"
+    },
+    {
+        "id":4,
+        "name":"พิพิธภัณฑ์พื้นบ้านจ่าทวี",
+        "describeThai":"สถานที่นี้คือ พิพิธภัณฑ์พื้นบ้านจ่าทวี  เป็นสถานที่สามารถเรียนรู้มนต์เสน่ห์วิถีชีวิตของคนในสมัยก่อนผ่านเครื่องมือ เครื่องใช้ ศิลปะ และหัตถกรรมที่สะสมอยู่ภายมนพิพิธภัณฑ์ สามารถเข้าชมแหล่งรวบรวมพันธ์ปลาน้ำจิดท้องถิ่น เรียนรู้และซึมซับประวัติศาสตร์ท้องถิ่น เรียนรู้วิถีชีวิตของชาวไทยทรงดำหรือชาวไทยโซ่ง สัมผัสถึงความตั้งใจและแรงบันดาลใจของจ่าสิบเอก ดร.ทวี-พิมพ์ บูรณเขตต์",
+        "describeEng":"This place is Sergeant Thawee Folk Museum It is a place where you can learn about the charm of the way of life of people in the past through tools, appliances, arts, and handicrafts that are collected within the museum. You can visit the local Namchit fish collection area. Learn and absorb local history Learn the way of life of the Thai Song Dam or Thai Song people. Feel the determination and inspiration of Sergeant Major Dr. Thawee-Pim Buranakhet.",
+        "describechine":"這個地方就是Sergeant Thawee民俗博物館。通過博物館內收藏的工具、用具、藝術品和手工藝品，您可以了解過去人們生活方式的魅力。 您可以參觀當地的 Namchit 魚採集區。 了解並吸收當地歷史 了解泰宋達姆或泰宋人的生活方式。 感受軍士長 Thawee-Pim Buranakhet 博士的決心和靈感。"
+    },
+    {
+        "id":5,
+        "name":"ศูนย์ประวัติศาสตร์พระราชวังจันทร์",
+        "describeThai":"สถานที่นี้คือ ศูนย์ประวัติศาสตร์พระราชวังจันทร์ ถูกจัดให้เป็นศูนยืประวัติศาสตร์ และศูนย์การเรียนรู้ ซึ่งจัดแสดงพระราชวัง และเมืองพิษณุโลกภายในค้นพบโบราณวัตถุมากมาย พระราชวังจันทร์ตั้งอยู่ภายในกำแพงเมืองพิษณุโลก ฝั่งตะวันตกของแม่น้ำน่าน  ",
+        "describeEng":"This place is Chan Palace Historical Center It is classified as a historical center. and learning center which showcases the palace and the inner city of Phitsanulok discovered many antiques Chan Palace is located within the city walls of Phitsanulok. West side of the Nan River",
+        "describechine":"這個地方是禪宮歷史中心，它被列為歷史中心。 展示宮殿和彭世洛內城的學習中心發現了許多古董陳宮位於彭世洛城牆內。 南江西岸"
+    },
+    {
+        "id":6,
+        "name":"วัดเจดีย์ยอดทอง",
+        "describeThai":"สถานที่นี้คือ วัดเจดีย์ยอดทอง วัดเจดีย์ยอดทองสร้างขึ้นในสมัยสุโขทัย ในช่วงพุทธศตวรรษที่ 19–20 โดยมีหลักฐานสำคัญ คือ เจดีย์ทรงพุ่มข้าวบิณฑ์หรือเจดีย์ทรงยอดดอกบัวตูม เป็นเจดีย์สุโขทัยองค์เดียวที่พบในพิษณุโลก สันนิษฐานว่า สร้างในรัชสมัยพระ พระยาลิไท คราวเสด็จมาครองเมืองพิษณุโลกและได้มีการบูรณะกันต่อมาตลอดสมัยสุโขทัยสมัยอยุธยาและสมัยรัตนโกสินทร์ ต่อมาเป็นวัดร้าง และได้รับตั้งเป็นวัดที่มีพระสงฆ์เมื่อวันที่ 8 กุมภาพันธ์ พ.ศ. 2520",
+        "describeEng":"This place is Chedi Yot Thong Temple Chedi Yot Thong Temple was built in the Sukhothai period. During the 19th–20th Buddhist centuries, the important evidence is a chedi in the shape of a Khao Bin bush or a chedi in the shape of a lotus bud. It is the only Sukhothai chedi found in Phitsanulok. It is assumed that it was built during the reign of Phra Phraya Lithai when he came to rule Phitsanulok and has been continuously renovated throughout the Sukhothai, Ayutthaya and Rattanakosin periods. Later it was an abandoned temple. and was established as a temple with monks on February 8 1977.",
+        "describechine":"這個地方是 佛塔佛通寺 Chedi Yot Thong 寺建於素可泰時期。 19世紀至20世紀的佛教時期，重要的證據是考賓灌木形狀的佛塔或蓮花花蕾形狀的佛塔。 它是彭世洛發現的唯一一座素可泰佛塔，據推測建於Phraya Lithai統治彭世洛時期，並在素可泰、大城和拉達那哥欣時期不斷翻新。 後來這裡成了一座廢棄的寺廟。 1977年2月8日建成寺廟並有僧侶。"
+    },
+    {
+        "id":7,
+        "name":"วัดอรัญญิก",
+        "describeThai":"สถานที่นี้คือ วัดอรัญญิก เป็นวัดโบราณสมัยสุโขทัย ตั้งอยู่อำเภอเมือง จังหวัดพิษณุโลก บริเวณนอกกำแพงเมือง ประมาณ 1 กิโลเมตร ตามความนิยมในสมัยสุโขทัยที่สร้างวัดในป่าและ ให้ชื่อว่า อรัญญิกลักษณะสถาปัตยกรรมของวัด เจดีย์องค์ประธานเป็นทรงลังกา ฐานกลม องค์ระฆังเหลือครึ่งซีกจนถึง บัลลังก์ พบร่องรอยการบูรณะจึงมีรูปแบบผสมผสาน พบซากอุโบสถ ซากใบเสมาหินศิลปะ สมัยสุโขทัย พระพุทธรูปศิลปะเชียงแสน สุโขทัย และอยุธยา มีคูน้ำล้อมเนินดิน",
+        "describeEng":"This place is Wat Aranyik, an ancient temple from the Sukhothai period. Located in Mueang District Phitsanulok Province The area outside the city wall is about 1 kilometer, according to the popularity in the Sukhothai period of building temples in the forest and giving them the name Aranyika. The architectural characteristics of the temple The main chedi is in the shape of a Lanka, with a round base. The bell remains in half until the throne. Traces of restoration were found, so it has a mixed style. The remains of the chapel, the remains of Sema stones, Sukhothai period art, Buddha images in the Chiang Saen, Sukhothai, and Ayutthaya styles were found. There is a moat surrounding the mound.",
+        "describechine":"這個地方就是Wat Aranyik，一座素可泰時期的古老寺廟。 位於彭世洛府Mueang縣，城牆外面積約1公里，根據素可泰時期在森林中修建寺廟的流行，並給它們取名為Aranyika。 寺廟的建築特色 主佛塔呈楞伽形，底座為圓形。 鐘聲保持一半，直至王座。 發現有修復的痕跡，因此風格混雜。 發現了教堂遺跡、色瑪石遺跡、素可泰時期的藝術、清盛、素可泰和大城風格的佛像。 土丘周圍有護城河。"
+    },
+    {
+        "id":8,
+        "name":"ศาลสมเด็จพระนเรศวรมหาราช",
+        "describeThai":"สถานที่นี้คือ ศาลสมเด็จพระนเรศวรมหาราช นับเป็นหลักฐานทางโบราณคดีอีกชิ้นที่สำคัญของจังหวัด ซึ่งจากการที่กรมศิลปากรได้เข้ามาขุดค้นบริเวณที่ตั้งของศาลฯ ได้พบว่าเดิมเคยเป็นแนวเขตพระราชฐานพระราชวังจันทน์ อันเป็นสถานที่ประสูติของสมเด็จพระนเรศวรมหาราช และปัจจุบันกรมศิลปากรได้จัดสร้างศาลาทรงไทยโบราณตรีมุข โดยมีพระรูปสมเด็จพระนเรศวรมหาราช ขนาดเท่าองค์จริง ประทับนั่ง พระหัตถ์ทรงพระสุวรรณภิงคารหลั่งน้ำ ในพระอิริยาบถประกาศอิสรภาพที่เมืองแครง พร้อมกับมีการจัดงานสักการะพระบรมรูปในวันที่ 25 มกราคมของทุกปี",
+        "describeEng":"This place is King Naresuan the Great Shrine It is considered another important piece of archaeological evidence in the province. which came from the Fine Arts Department coming to excavate the area where the shrine is located. It was found that it used to be the royal boundary of Chan Palace. which is the birthplace of King Naresuan the Great And now the Fine Arts Department has built an ancient Thai-style pavilion, Trimuk. With a statue of King Naresuan the Great. Life-size, seated, His Majesty's hands pouring water. In the gesture of declaring independence at Muang Kraeng At the same time, there is an event to pay homage to the royal statue on January 25th every year.",
+        "describechine":"這個地方是 納瑞宣國王大神殿 它被認為是該省的另一件重要的考古證據。 來自美術係來挖掘神社所在區域的作品。 發現這裡曾經是禪宮的王界。 這是納瑞宣大帝的出生地 現在美術系建了一座古泰式的亭子Trimuk。 有一尊納瑞宣大帝的雕像。 真人大小，坐著，國王陛下的雙手在倒水。 在 Muang Kraeng 宣布獨立的姿態 同時，每年1月25日還有瞻仰皇家雕像的活動。"
+    }     
+  
+
+]  
+}
+       
+
+
+
+   

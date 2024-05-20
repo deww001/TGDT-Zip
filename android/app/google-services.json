@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1085355337677",
+    "project_id": "tgdtdata",
+    "storage_bucket": "tgdtdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085355337677:android:7e8a2e769c74dece324684",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_tgdt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9gqECkxHgELilMfnHrJpy8g7XPGEaiL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

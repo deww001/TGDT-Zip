@@ -1,0 +1,20 @@
+{
+    "WarningArea": {
+      "DocumentID1": {
+        "name": "ชื่อพื้นที่จุดเสี่ยง",
+        "latlng": [
+          {
+            "_latitude": 0.0,
+            "_longitude": 0.0
+          },
+          {
+            "_latitude": 0.0,
+            "_longitude": 0.0
+          }
+        ]
+      }
+      
+      }
+}
+
+
